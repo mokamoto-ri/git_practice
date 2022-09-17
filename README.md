@@ -1,1 +1,2 @@
-# git_practice
+# Git Practice
+Gitのお勉強中
